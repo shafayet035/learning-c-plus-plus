@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    int a = 10, b = 2;
+    int a = 25, b = 5;
 
     cout << "The Summation is: " << a+b << endl;
     cout << "The Subtraction is: " << a-b << endl;
