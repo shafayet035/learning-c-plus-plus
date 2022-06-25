@@ -3,11 +3,11 @@ using namespace std;
 
 int main() {
 
-    char character_input;
+    char character;
 
     cout << "Please Enter Any Character: ";
-    cin >> character_input;
+    cin >> character;
 
-    cout << "You have entered: "<<character_input<<endl ;
+    cout << "You have entered: "<< character <<endl ;
     return 0;
 }

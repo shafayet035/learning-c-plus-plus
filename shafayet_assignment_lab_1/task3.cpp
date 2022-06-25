@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-    int number;
-    cout << "Please Enter a Number ";
-    cin >> number;
-    cout << "The User has Entered " << number << endl;
+    int num;
+    cout << "Enter a Number ";
+    cin >> num;
+    cout << "Entered number is" << num << endl;
     return 0;
 }
